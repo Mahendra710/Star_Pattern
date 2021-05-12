@@ -16,6 +16,7 @@ Click For: [Source Code](https://github.com/Mahendra710/Star_Pattern/blob/main/8
             * * *   
           * * * *   
         * * * * * 
+* 
 
 Click For: [Source Code](https://github.com/Mahendra710/Star_Pattern/blob/main/8.2-Printing%20Star%20pattern%20with%20spaces.py)
 
