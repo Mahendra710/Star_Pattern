@@ -125,17 +125,17 @@ Click For: [Source Code](https://github.com/Mahendra710/Star_Pattern/blob/main/8
 
 Click For: [Source Code](https://github.com/Mahendra710/Star_Pattern/blob/main/8.13-Star%20Pattern.py)
 
-##14-Star and Number Pattern:
-        *  1 
-      * *  2 3 
-    * * *  3 4 5 
-  * * * *  4 5 6 7 
-* * * * *  5 6 7 8 9 
-5 4 3 2 1  1 3 5 7 9 
-  5 4 3 2  3 5 7 9 
-    5 4 3  5 7 9 
-      5 4  7 9 
-        5  9 
+##14-Star and Number Pattern:-  
+              * 1   
+           * *  2 3   
+         * * *  3 4 5   
+       * * * *  4 5 6 7   
+     * * * * *  5 6 7 8 9   
+     5 4 3 2 1  1 3 5 7 9   
+       5 4 3 2  3 5 7 9   
+         5 4 3  5 7 9   
+           5 4  7 9   
+             5  9 
 
 Click For: [Source Code](https://github.com/Mahendra710/Star_Pattern/blob/main/33-Star%20and%20Number%20Pattern.py)
 
